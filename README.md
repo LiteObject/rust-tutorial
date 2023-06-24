@@ -34,8 +34,12 @@ Rust boasts a vibrant and growing ecosystem with an active community. The offici
 Exploring Rust as a C# developer can open up new possibilities and broaden your understanding of programming languages. With its focus on performance, safety, and concurrency, Rust presents a unique set of features that can enhance your programming skills. While the initial learning curve might be steep, the rewards in terms of code reliability, efficiency, and security make the journey worthwhile. So, don't hesitate to dive into the world of Rust and unlock its potential for your future projects. Happy coding!
 
 Note: Rust is a rapidly evolving language, and it's always recommended to refer to the [official Rust documentation](https://doc.rust-lang.org/book/title-page.html) and resources for the latest information and best practices.
+---
+## Data Type:
 
 ---
-## Links
+## Links:
 - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 - [Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
+- [To install Rust...](https://rustup.rs/)
+- [Cargo: Rust Package Manager](https://doc.rust-lang.org/cargo/)
